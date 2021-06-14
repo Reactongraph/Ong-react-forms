@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This POC contains a simple React Login Form. Form validation has been done in it which allows an error message to be displayed if the user has not correctly filled out the form with the expected type of input. Validator function with validation rules has been used in it to validate the input data.
+
 ## Available Scripts
 
 In the project directory, you can run:
