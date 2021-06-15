@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This POC contains a simple React Login Form. Form validation has been done in it which allows an error message to be displayed if the user has not correctly filled out the form with the expected type of input. Validator function with validation rules has been used in it to validate the input data.
 
-<img src='./ReactForm.gif' alt='video' height='720px'/>
+<img src='./ReactForm.gif' alt='video' height='720' />
 
 ## Available Scripts
 
